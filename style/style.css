@@ -1,0 +1,7 @@
+nav {margin: 0;padding: 0;overflow: hidden;background-color: #007896;}
+a {float: left;display: block;color: white;text-align: center;padding: 18px;text-decoration: none;}
+a:hover {background-color: #4d4d55;}
+footer {font-family: Nunito; padding: 18px;color: #ffffff;}
+h1 {font-family: Nunito; padding: 5pt; color: #ffffff;font-size: 40pt;text-decoration: underline;font-weight: bold;}
+body {background-color: #212121;}
+p {font-family: Nunito; font-size: 18pt; color: #ffffff;}
