@@ -1,7 +1,68 @@
-nav {margin: 0;padding: 0;overflow: hidden;background-color: #007896;}
-a {float: left;display: block;color: white;text-align: center;padding: 18px;text-decoration: none;}
-a:hover {background-color: #4d4d55;}
-footer {font-family: Nunito; padding: 18px;color: #ffffff;}
-h1 {font-family: Nunito; padding: 5pt; color: #ffffff;font-size: 40pt;text-decoration: underline;font-weight: bold;}
-body {background-color: #212121;}
-p {font-family: Nunito; font-size: 18pt; color: #ffffff;}
+.banner {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 50vh;
+  background-image: url("vielleicht-kommt-noch-ein-hintergrund.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.banner h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.banner nav {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 1;
+}
+
+main {
+  position: relative;
+  top: 15vh;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #007896;
+}
+
+a {float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #4d4d55;
+}
+
+footer {font-family: Nunito;
+  padding: 18px;color: #ffffff;
+}
+
+h1 {font-family: Nunito;
+  padding: 5pt; color: #ffffff;
+  font-size: 40pt;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+body {
+  background-color: #212121;
+}
+
+p {font-family: Nunito;
+  font-size: 18pt;
+  color: #ffffff;
+}
