@@ -1,2 +1,2 @@
-Dies ist ein Schulisches Projekt, in dem ich die ein bischen über Hardware und Software schreibe... <br>
-(also wenn das dann Fertig ist.)
+Dies ist meine Internetseite.<br>
+(also wenn die dann Fertig ist.)
