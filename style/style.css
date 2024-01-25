@@ -58,7 +58,15 @@ footer {font-family: Nunito;
 h1 {font-family: sans-serif;
   padding: 5pt; color: #ffffff;
   font-size: 55pt;
+  text-align: center;
   text-decoration: underline;
+  font-weight: bold;
+}
+
+h2 {font-family: sans-serif;
+  padding: 5pt; color: #ffffff;
+  text-align: center;
+  font-size: 30pt;
   font-weight: bold;
 }
 
